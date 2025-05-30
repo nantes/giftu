@@ -14,7 +14,7 @@ GiftU es una aplicación móvil nativa (desarrollada con React Native) diseñada
     - Estas notas se guardan localmente.
 - **Notificaciones Locales:**
     - Recibe recordatorios para las fechas importantes que hayas guardado.
-    - **Nota:** Actualmente, las notificaciones están completamente funcionales en Android. En iOS, la configuración nativa requiere un paso adicional (`pod install`) que no se pudo completar en el entorno de desarrollo actual, por lo que las notificaciones podrían no funcionar como se espera en iOS hasta que se complete dicha configuración.
+    - **Nota:** Actualmente, las notificaciones están completamente funcionales en Android. En iOS, podrían no funcionar.
 - **Interfaz de Usuario Amigable:** Diseño inspirado en un mockup moderno, con una navegación clara y sencilla.
 
 ## Empezando (General)
