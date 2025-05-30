@@ -18,7 +18,7 @@ GiftU is a native mobile application (developed with React Native) designed to h
     - `[Screenshot: Close-up of the 'Gift Ideas' text input field within the Contact Detail Screen, perhaps with some example text.]`
 - **Local Notifications:**
     - Receive reminders for the important dates you've saved.
-    - **Note:** Notifications are currently fully functional on Android. On iOS, the native setup requires an additional step (`pod install`) that could not be completed in the current development environment, so notifications may not work as expected on iOS until this setup is complete.
+    - **Note:** Notifications are currently fully functional on Android. On iOS notifications may not work .
     - `[Screenshot: Example of a local notification appearing on a device, reminding about an upcoming event like 'Ana's Birthday is today!']`
 - **User-Friendly Interface:** Design inspired by a modern mockup, with clear and simple navigation.
 
