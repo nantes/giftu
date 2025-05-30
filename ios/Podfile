@@ -40,6 +40,8 @@ target 'giftu' do
   end
 
   use_native_modules!
+
+  pod 'react-native-contacts', :path => '../node_modules/react-native-contacts'
 end
 
 target 'giftu-tvOS' do
